@@ -1,1 +1,3 @@
-# Trabalho de Métodos Númericos e Computacionais
+# Trabalho de Métodos Numéricos e Computacionais
+
+## Método da Máxima Verossimilhança
